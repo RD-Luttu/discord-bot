@@ -1,5 +1,5 @@
-# discord-bot
-Advanced Cybersecurity Discord Bot
+
+# Advanced Cybersecurity Discord Bot
 
 
 This bot fetches:
@@ -8,8 +8,8 @@ This bot fetches:
 ✅ Kali Linux Updates (New packages & releases)
 ✅ Security Tool Updates (Metasploit, Nmap, Burp Suite, etc.)
 
-
-
+# Install Dependencies
+npm install discord.js axios cheerio node-cron dotenv mongoose
 
 🔧 Features & Commands
 Command	Description
