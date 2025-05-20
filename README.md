@@ -13,11 +13,11 @@ npm install discord.js axios cheerio node-cron dotenv mongoose
 
 # 🔧 Features & Commands
 Command	Description
-/n !hackernews	Latest cybersecurity stories from Hacker News
-/n !cve	Recent CVE vulnerabilities
-/n !kali	Kali Linux updates (RSS feed)
-/n !tools	Latest security tool versions (Metasploit, Nmap, etc.)
-/n Auto-Post	Daily updates at 12 PM (configurable)
+!hackernews	Latest cybersecurity stories from Hacker News
+!cve	Recent CVE vulnerabilities
+ !kali	Kali Linux updates (RSS feed)
+ !tools	Latest security tool versions (Metasploit, Nmap, etc.)
+ Auto-Post	Daily updates at 12 PM (configurable)
 
 
 # Run the bot:
